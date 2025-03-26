@@ -1,0 +1,7 @@
+{
+    "require": {
+        "setasign/fpdf": "^1.8",
+        "razorpay/razorpay": "^2.9",
+        "tecnickcom/tcpdf": "^6.8"
+    }
+}
