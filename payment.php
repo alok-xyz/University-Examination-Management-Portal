@@ -35,7 +35,7 @@ $stmt->execute();
 $student = $stmt->get_result()->fetch_assoc();
 
 // Initialize Razorpay
-$api = new Api('rzp_test_ykJT9pz3eI8bEH', '5bTagqXDtzR4WW23MYyD6Xy2');
+$api = new Api('key', 'key');
 
 // Create order
 $orderData = [
